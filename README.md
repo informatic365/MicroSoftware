@@ -1,5 +1,5 @@
 # Introduction of MicroSoftware
-The next version of MicroSoftware (5.15.1v Enterprise) will integrate the following functions:
+The next version of MicroSoftware **(5.15.1v Enterprise)** will integrate the following functions:
   - New design
   - Compared to previous versions, this version will be similar as the Windows 11 Desktop
   - New functions
